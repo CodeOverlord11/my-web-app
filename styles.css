@@ -1,10 +1,14 @@
 h1 {
-    background-color: burlywood;
+    background-color: beige;
     text-align: center;
     color: black;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10%;
 }
 
 p {
-    background-color: coral;
-    text-align: justify;
+    background-color: burlywood;
+    text-align: center;
+    padding: auto;
 }
